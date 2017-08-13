@@ -1,0 +1,147 @@
+{
+    "name": "Audi_A3",
+    "colors": {
+        "green": {
+            "types": {
+                "center": [
+                    "1024x0_1_q87_autohomecar__wKgH6FdX-MeAUKDSAAdNvdtYz4M914.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHz1deh8WAWxAwAAR5KPv8CVk882.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHzFdeh8uATuu5AAPI9_fM7Kg314.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBxVdX-MiAHs9NAAYTHBWXUNA753.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBxVdX-MmASS-bAAcTGS5G2J0124.jpg"
+                ],
+                "view": [
+                    "1024x0_1_q87_autohomecar__wKgFV1kTN5KAJzNxAAY3hCuCZmQ842.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFW1kTN46AfwCkAAYzqyrUf_Y243.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFW1kTN5CATWdjAAbf14rrsS4853.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFXFjsxJmATEX9AAonruZ3Mlk746.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH11kTN4-AJ21RAAazqkE2p9Y574.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH11kTN4yAN5NtAAXxFO0nKKQ063.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH5lkTN5CAIUqeAAX7TDlBJls208.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBx1kTN42AVMJZAAY7vwstaas791.jpg"
+                ]
+            }
+        },
+        "orange": {
+            "types": {
+                "center": [
+                    "1024x0_1_q87_autohomecar__wKgH1VjsxA-AfMPDAAZ2Sw5v6Bs572.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH1VjsxBGAe3Z5AAU9UUhTKNc197.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH2VjsxA2AR9QYAAWk2OSf_Qc598.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH2VjsxACAD5_EAAW5Fnb7emg578.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH2VjsxBCAQ2oVAAVimj6MDfM937.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH5FjsxAGAUQf5AAWxEapXxcw121.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH6Fjsw_GAQFpxAAXL_kB9jig635.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH6Fjsw_iAS00PAAUhH9aXvXM843.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH6FjsxASATr2cAAX39kbHb5E988.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBxVjsw--AJVmCAAktbnaReV8709.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByVjsxAKAaVbVAAW0TA7QwqY126.jpg"
+                ],
+                "detail": [
+                    "1024x0_1_q87_autohomecar__wKgFV1kAAzSATaH6AAWGUKgcs0Y671.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFXFkAAzeAeom_AAjiPfqUQTE860.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFXFkAAzGAYZy0AAafPCAWGHo548 (1).jpg",
+                    "1024x0_1_q87_autohomecar__wKgFXFkAAzGAYZy0AAafPCAWGHo548.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH2lkAAzaAY9q6AAXo6mgATT8782.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH2lkAAzOAUcPAAAgF4UGbigM004.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH3FkAAzCAdvB3AAYjsoWKToE583.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHy1kAAzKAFab7AAaWZnfhiYk269.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHy1kAAzWACOAvAAfxTblgj_U283.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB01kAAzaARWq1AAZY7aPowSI259.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB01kAAzKAQnUJAAVWMe3bZP8926.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB01kAAzOAOhi7AAPubt3UMpI270.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBwFkAAzSAV-_BAAVgdH6xJsQ017.jpg"
+                ],
+                "view": [
+                    "1024x0_1_q87_autohomecar__wKgH2lkAA06ABoEAAAekrUoTV-M628.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHy1kAA1CATWDoAAyvW0Yz15E106.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHy1kAA1GANYyoAA8yUWA4wqw603.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHy1kAA1KAW7tMAAjOFQ9zA7U369.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHy1kAA1OAWoJPAAjVdNuUIFg722.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB01kAA1KAGke3AAng7REHqAk325.jpg"
+                ]
+            }
+        },
+        "red": {
+            "types": {
+                "center": [
+                    "1024x0_1_q87_autohomecar__wKgFWVk31X-APdXXAAb9GNVBQwk144.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31YGAA_95AAXeTCoThI8825.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH1Vk31X2AET9oAAL6d1EMtOw706.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBw1k31YOADkgmAAdLJrulyxg471.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByVk31X6AGHttAAUnQNG_Q6k498.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByVk31YKAVR3tAAYz69Pu2tM058.jpg"
+                ],
+                "detail": [
+                    "1024x0_1_q87_autohomecar__wKgFWlkBvpSAFrlQAAYEdqMOObE795.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH0lkBvpiAbSI5AAZEQ8_Z-jk936.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH4VkBvp-AEOJMAAjHfKcdJEo654.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH4VkBvpaAV5N-AAPmUXoqy-A321.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH4VkBvpuAJjqHAAaV45v51yY756.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH4VkBvpyAPi-IAAjqV7MuFxM245.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBwlkBvpKATV-YAAWI89GImE4412.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBzFkBvp6AAZl3AAczALGcXIg838.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBzFkBvpeAE7HbAAPSTe9zLQs195.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBzFkBvpmASSRHAAVpEjCYh1Q172.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBzFkBvpOAS4wNAAUP0q2FOao339.jpg"
+                ],
+                "view": [
+                    "1024x0_1_q87_autohomecar__wKgH01j-w7SATgkhAAkMLJqPfMU097.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH0FkBvyaAI-qaAAeUrIeVkWo668.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH0FkBvyqAJx9TAAghgzQbcjc001.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH0lj-w7aAKfuDAAY63i-YfBQ123.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH0lj-w7WANHzRAAZDb3giNe8296.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH31kBvyyAFa5uAAet1Z16jO0835.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHz1kBvySAKPcqAAfNh8H9ivE432.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBzlkBvy2AO752AAgnhovn0_A598.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBzlkBvyeAAER4AAcJbHAM6YA824.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBzlkBvymACnqHAAf3s_YzQ2M078.jpg"
+                ]
+            }
+        },
+        "white": {
+            "types": {
+                "center": [
+                    "1024x0_1_q87_autohomecar__wKgFWVk31W-AdGwvAAS47DrBJYQ009.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31XCAEi1VAAQ7Mjd_W-s862.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31XiAAyPLAATGF633yU8285.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31XqARkIrAATT1EQF-Iw342.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31XWAf5p8AANP4YK-Z_o475.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31XyAMpH3AARMxF-4-Rk709.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH1Vk31XGADV73AAQLnKTzWss034.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH1Vk31XmARjUJAAPApyIAEC4246.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH1Vk31XSAOI_UAAYaplh5KOQ924.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH5Fk31XKAZSpGAAQpB54nEVQ732.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBw1k31W6AVhGUAAQekVst_mA053.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBw1k31XeATRPvAANHQ3F4W3E493.jpg"
+                ],
+                "detail": [
+                    "1024x0_1_q87_autohomecar__wKgFVFk31WSAH3VzAAaJyzzhVc8983.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31V6ABAnGAAKX2odkqbQ068.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31VyAdjEfAAO95nKWSvA685.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31WOAURQ8AAd_NztLgE8630.jpg",
+                    "1024x0_1_q87_autohomecar__wKgFWVk31WWAatB4AAgCk4wvaHI414.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH5Vk31WGAQwkCAASVNXfuW1I009.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBw1k31V-AS2-WAALQYnw1KiU279.jpg",
+                    "1024x0_1_q87_autohomecar__wKjBw1k31VuAabTJAAMulcq6gl8727.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByFk31V2AUvniAAQBnDTTP5c308.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByFk31WCAOJ2mAAWy0LT-jBA850.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByFk31WeAVkbFAAZut33NBnk178.jpg"
+                ],
+                "view": [
+                    "1024x0_1_q87_autohomecar__wKgH21k31bCAYmVHAAUaGg0w2b8664.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH5FkxLzeAIoxCAAxpXyegGkI616.jpg",
+                    "1024x0_1_q87_autohomecar__wKgH5FkxLziARXeFAAqDQ2azoi0704.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHy1k31bKAPPvXAAWM1eGN8v0663.jpg",
+                    "1024x0_1_q87_autohomecar__wKgHzFk31bSAOAMBAAW2oLu0Y3s851.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB01k31bGAEflpAAUcrx7m6cw100.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB0lk31a2ATbl9AAVyljaOYTE149.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB0lk31a6ALQOZAATNc4Xzt4E213.jpg",
+                    "1024x0_1_q87_autohomecar__wKjB0lk31bOARed2AAToE8BDlpk030.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByVkxLzmAI-CnAAkJqXYU7xU355.jpg",
+                    "1024x0_1_q87_autohomecar__wKjByVkxLzqAL3oCAAsaEiEqZlE768.jpg"
+                ]
+            }
+        }
+    }
+}
